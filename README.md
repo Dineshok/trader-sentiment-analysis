@@ -17,12 +17,3 @@ pip install pandas numpy matplotlib
 1. Conviction traders: size up on Greed and Fear days, reduce on Neutral
 2. Frequent traders: best edge only on Extreme Greed — reduce activity elsewhere
 ```
-
-**Step 3 — GitHub repo structure:**
-```
-trader-sentiment-analysis/
-├── charts/
-│   ├── sentiment_analysis.png
-│   └── segmentation_analysis.png
-├── notebook.ipynb
-└── README.md
